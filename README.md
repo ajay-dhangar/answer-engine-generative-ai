@@ -2,11 +2,7 @@
 
 An AI-powered search engine with a generative UI.
 
-![capture](/public/capture-240404_blk.png)
-
-### Note
-
-Please note that there are differences between this repository and the official website [morphic.sh](morphic.sh). The official website is a fork of this repository with additional features such as authentication, which are necessary for providing the service online. The core source code of Morphic resides in this repository, and it's designed to be easily built and deployed. When using Morphic, please keep in mind the different roles of the repository and the website.
+![capture](https://github.com/Ajay-Dhangar/answer-engine-generative-ai/assets/99037494/5416d57c-6d1b-4155-8cb1-245f3ee93602)
 
 ## 🔍 Overview
 
