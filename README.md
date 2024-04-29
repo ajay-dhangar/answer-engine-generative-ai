@@ -42,13 +42,13 @@ Please note that there are differences between this repository and the official 
 Fork the repo to your Github account, then run the following command to clone the repo:
 
 ```
-git clone git@github.com:[YOUR_GITHUB_ACCOUNT]/morphic.git
+git clone git@github.com:[YOUR_GITHUB_ACCOUNT]/answer-engine-generative-ai.git
 ```
 
 ### 2. Install dependencies
 
 ```
-cd morphic
+cd answer-engine-generative-ai
 bun i
 ```
 
@@ -98,7 +98,7 @@ Host your own live version of Morphic with Vercel or Cloudflare Pages.
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmiurla%2Fmorphic&env=OPENAI_API_KEY,TAVILY_API_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fajay-dhangar%2Fanswer-engine-generative-aic&env=OPENAI_API_KEY,TAVILY_API_KEY)
 
 ### Cloudflare Pages
 
